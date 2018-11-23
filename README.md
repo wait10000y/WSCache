@@ -8,4 +8,5 @@
 支持keyChain存取string;
 
 
-
+转使用下面库了:
+https://github.com/wait10000y/YYCache/tree/master/YYCache
